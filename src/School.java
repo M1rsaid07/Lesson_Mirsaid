@@ -9,5 +9,6 @@ public class School {
     School() {
         this.number = 284;
         this.students= 4538;
+
     }
 }
